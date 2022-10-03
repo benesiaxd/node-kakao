@@ -37,6 +37,6 @@
     "bson": "^4.0.2",
     "form-data": "^3.0.0",
     "json-proxy-mapper": "^1.1.2",
-    "lossless-json": "^1.0.3"
+    "lossless-json": "^2.0.1"
   }
 }
